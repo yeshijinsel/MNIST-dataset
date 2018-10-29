@@ -15,4 +15,4 @@ t10k-images-idx3-ubyte.gz:   test set images (1648877 bytes)
 t10k-labels-idx1-ubyte.gz:   test set labels (4542 bytes) 
 
 
-Enjoy Learning
+Keep Contribute to this Repo.
